@@ -3,4 +3,4 @@ Its products and services ranges from websites development, web applications and
 with an up-to-date technology, making them more productive and efficient in their daily transactions and operations.
 
 ___
-###### Copyright (c) 2017 [Optimum.IO](https://ajcastro.github.io/Optimum.IO). All Rights Reserved.
+###### Copyright © 2017 [Optimum.IO](https://ajcastro.github.io/Optimum.IO). All Rights Reserved.
